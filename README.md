@@ -25,8 +25,8 @@ This project showcases a split to edit UI where the time fields expand, round ou
 ## 🛠️ Usage
 
 ```sh
-git clone https://github.com/your-username/expo-draggable-video-player.git
-cd expo-draggable-video-player
+git clone https://github.com/mahdidavoodi7/split-to-edit-interaction
+cd split-to-edit-interaction
 npm install
 npx expo run:ios
 
@@ -37,7 +37,7 @@ npx expo run:android
 
 ## 💡 Inspiration
 
-Inspired by playful drag interactions in CreateWithPlay App, especially the fluid feel of iOS system controls.
+Inspired by a playful UI interaction shared on Twitter and brought into React Native with Reanimated.
 
 ## 🙏 Credits
 
