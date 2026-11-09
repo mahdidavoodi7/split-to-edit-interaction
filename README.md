@@ -48,3 +48,7 @@ Inspired by a playful UI interaction shared on Twitter and brought into React Na
 ## 📄 License
 
 MIT — feel free to fork, modify, and build something cool with it.
+
+---
+
+Made by [Motionary](https://motionary.dev). Related: [Split to Edit Time](https://motionary.dev/animations/split-to-edit-time).
